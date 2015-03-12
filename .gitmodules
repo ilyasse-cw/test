@@ -1,0 +1,6 @@
+[submodule "WiringPi.Net"]
+	path = WiringPi.Net
+	url = https://github.com/danriches/WiringPi.Net.git
+[submodule "DRIE"]
+	path = DRIE
+	url = https://github.com/danriches/WiringPi.Net.git
